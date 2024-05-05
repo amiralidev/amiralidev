@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://github.com/danharrin"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=amiralidev&show_icons=true" height="150" /></a>
+<a href="https://github.com/amiralidev"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=amiralidev&show_icons=true" height="150" /></a>
 
 <!--
 **amiralidev/amiralidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
